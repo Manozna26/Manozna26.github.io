@@ -128,3 +128,6 @@ body {
 .contact p {
   margin-bottom: 10px;
 }
+html {
+  scroll-behavior: smooth;
+}
